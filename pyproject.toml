@@ -30,6 +30,7 @@ classifiers = [
   "Programming Language :: Python :: 3.13",
   "Programming Language :: Python :: 3.14",
   "Programming Language :: Python :: Implementation :: CPython",
+  "Programming Language :: Python :: Implementation :: GraalPy",
   "Programming Language :: Python :: Implementation :: PyPy",
   "Topic :: Multimedia :: Graphics",
   "Topic :: Multimedia :: Graphics :: Capture :: Digital Camera",
